@@ -1,4 +1,4 @@
-# Development Enviroment Preparation for Infineon PSoC 62S2 Wi-Fi BT Pioneer Kit
+# Development Environment Preparation for Infineon PSoC 62S2 Wi-Fi BT Pioneer Kit
 ## Requirement 
 ![image](https://github.com/Advance-Innovation-Centre-AIC/Part-I-Basic-MCU-Interfacing/assets/88732241/a9cbaff6-f6a2-47f2-87ac-d4a9233b470f)
 
@@ -34,9 +34,6 @@ Connect the board to the Host Machine
 $ cd /Applications/ModusToolbox/tools_3.0/fw-loader/bin/
 $ ./fw-loader --device-list
 ```
-![Image](https://github.com/Advance-Innovation-Centre-AIC/Development-Enviroment-Preparation-for-Infineon-PSoC-6/blob/main/Img/image-1.png)
-
-
 ![Alt text](Img/image-1.png)
 
 - Update firmware
