@@ -34,6 +34,9 @@ Connect the board to the Host Machine
 $ cd /Applications/ModusToolbox/tools_3.0/fw-loader/bin/
 $ ./fw-loader --device-list
 ```
+![Image](https://github.com/Advance-Innovation-Centre-AIC/Development-Enviroment-Preparation-for-Infineon-PSoC-6/blob/main/Img/image-1.png)
+
+
 ![Alt text](Img/image-1.png)
 
 - Update firmware
